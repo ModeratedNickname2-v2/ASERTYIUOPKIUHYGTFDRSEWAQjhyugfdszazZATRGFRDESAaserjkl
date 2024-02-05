@@ -6,3 +6,6 @@ google.*##a[href*="pinterest."]:upward(1)
  
 google.*##.g:has(a[href*="answers.microsoft."]) 
 google.*##a[href*="answers.microsoft."]:upward(1) 
+
+google.*##.g:has(a[href*="techcommunity.microsoft."]) 
+google.*##a[href*="techcommunity.microsoft."]:upward(1) 
