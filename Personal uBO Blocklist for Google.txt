@@ -1,0 +1,8 @@
+google.*##.g:has(a[href*="quora."]) 
+google.*##a[href*="quora."]:upward(1) 
+ 
+google.*##.g:has(a[href*="pinterest"]) 
+google.*##a[href*="pinterest."]:upward(1) 
+ 
+google.*##.g:has(a[href*="answers.microsoft."]) 
+google.*##a[href*="answers.microsoft."]:upward(1) 
